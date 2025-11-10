@@ -1,0 +1,60 @@
+{
+    "Prompt_1": {
+        "Holistic": 0,
+        "Content": 1,
+        "Organization": 2,
+        "Word Choice": 3,
+        "Sentence Fluency": 4,
+        "Conventions": 5
+    },
+    "Prompt_2": {
+        "Holistic": 0,
+        "Content": 1,
+        "Organization": 2,
+        "Word Choice": 3,
+        "Sentence Fluency": 4,
+        "Conventions": 5
+    },
+    "Prompt_3": {
+        "Holistic": 0,
+        "Content": 1,
+        "Prompt Adherence": 6,
+        "Language": 7,
+        "Narrativity": 8
+    },
+    "Prompt_4": {
+        "Holistic": 0,
+        "Content": 1,
+        "Prompt Adherence": 6,
+        "Language": 7,
+        "Narrativity": 8
+    },
+    "Prompt_5": {
+        "Holistic": 0,
+        "Content": 1,
+        "Prompt Adherence": 6,
+        "Language": 7,
+        "Narrativity": 8
+    },
+    "Prompt_6": {
+        "Holistic": 0,
+        "Content": 1,
+        "Prompt Adherence": 6,
+        "Language": 7,
+        "Narrativity": 8
+    },
+    "Prompt_7": {
+        "Holistic": 0,
+        "Content": 1,
+        "Organization": 2,
+        "Conventions": 5
+    },
+    "Prompt_8": {
+        "Holistic": 0,
+        "Content": 1,
+        "Organization": 2,
+        "Word Choice": 3,
+        "Sentence Fluency": 4,
+        "Conventions": 5
+    }
+}
